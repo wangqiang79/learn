@@ -1,0 +1,2 @@
+1.Word2Vec Tutorial - The Skip-Gram Model，http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+2.Efficient Estimation of Word Representations in Vector Space，https://arxiv.org/pdf/1301.3781.pdf
