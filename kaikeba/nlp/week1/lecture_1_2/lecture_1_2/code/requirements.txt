@@ -69,7 +69,7 @@ smart-open==1.8.4
 tensorboard==1.12.2
 tensorflow==1.7.0
 tensorflow-estimator==1.13.0
-tensorflow-gpu==1.12.0
+tensorflow-gpu==1.15.2
 tensorflow-tensorboard==0.1.5
 termcolor==1.1.0
 Theano==0.9.0
